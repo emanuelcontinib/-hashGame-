@@ -64,12 +64,14 @@ h1{
   margin-top: 17px;
 }
 
-/* hide class */
+/*hide class */
 
-/* .hide {
+.hide {
   display: none !important;
 
-} */ 
+}  
+
+
  /*score*/
 .score-box{
   margin: 0 20px ;
@@ -111,5 +113,5 @@ h1{
   background-color:#000 ;
   color: #ffffff;
   padding: 20px;
-  display: none;
+
 }
